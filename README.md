@@ -1,2 +1,0 @@
-# supermercado
-proyecto de supermecado
